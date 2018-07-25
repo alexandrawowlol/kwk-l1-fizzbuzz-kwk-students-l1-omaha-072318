@@ -3,10 +3,8 @@ def fizzbuzz(number)
     "FizzBuzz"
     elsif number % 5 == 0
     "Buzz"
-  elsif number % 3 == 0
+  else number % 3 == 0
     "Fizz"
-  else number ! % 3 ==0 && number ! % 5 == 0
-    
   end
 end
-# fizzbuzz
+fizzbuzz

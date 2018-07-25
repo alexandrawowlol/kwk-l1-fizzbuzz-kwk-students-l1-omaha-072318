@@ -7,4 +7,4 @@ def fizzbuzz(number)
     "Fizz"
   end
 end
-fizzbuzz
+# fizzbuzz
